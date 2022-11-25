@@ -1,0 +1,1 @@
+# AmiyaBot-Bot-plugin-DailyNews
