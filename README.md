@@ -7,4 +7,4 @@
 - 感谢[瓶芯API (yunwj.top)](http://bjb.yunwj.top/php/API/html.html?0)站长提供的API
 - 新闻示例：
 
-![](D:\Git\Amiya-bot\resource\daily_news\2022-11-25.jpg)
+![](./template/news.jpg)
